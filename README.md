@@ -52,6 +52,3 @@ Real-time bird and drone identification using YOLOv8.
 
 We welcome contributions to this project! Feel free to fork the repository, make your changes, and submit a pull request .
 
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).

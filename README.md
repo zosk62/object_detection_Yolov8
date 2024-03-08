@@ -2,6 +2,9 @@
 
 This project leverages the power of YOLOv8 (You Only Look Once v8) for real-time object detection in YouTube videos, with a specific focus on identifying birds and drones.
 
+[![Drone and Bird Detection](object_detection_videos/object_detection_videos.mp4)]
+[![Drone and Bird Detection](object_detection_videos/object_detection_videos.mp4)](object_detection_videos/object_detection_videos.mp4)
+
 ## Functionality Overview
 
 - **Imports necessary libraries:** OpenCV (cv2), ultralytics (for YOLOv8) , math (for potential calculations ), and pytube (for YouTube video handling ).

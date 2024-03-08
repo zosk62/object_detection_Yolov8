@@ -3,6 +3,7 @@
 Real-time bird and drone identification using YOLOv8.
 
 [![Drone and Bird Detection](object_detection_videos/object_detection_videos.mp4)](object_detection_videos/object_detection_videos.mp4)
+[![Drone and Bird Detection](drone.png)
 
 ## Functionality Overview
 
